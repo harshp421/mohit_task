@@ -1,0 +1,1 @@
+export const CATEGORY=['All Postes','Article','Event','Education','Job']
